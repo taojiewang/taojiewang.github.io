@@ -19,5 +19,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I'm a PhD candidate in philosophy at Brown University. Before coming to Brown, I received my MA from University of Wisconsin - Milwaukee, my BA in philosophy from KU Leuven in Belgium, and my BA in English (Hon.) from University of Liverpool in the UK. 
-
+I'm a PhD candidate in philosophy at Brown University. Before coming to Brown, I received my MA from University of Wisconsin - Milwaukee, my BA in philosophy from KU Leuven in Belgium, and my BA in English (Hon.) from University of Liverpool in the UK.
