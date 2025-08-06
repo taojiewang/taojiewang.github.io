@@ -2,6 +2,7 @@
 layout: page
 permalink: /friends/
 title: friends
+nav: false
 ---
 
 <div class="row">
