@@ -47,7 +47,7 @@ repo_trophies:
 
 navbar_fixed: true
 footer_fixed: true
-search_enabled: true
+search_enabled: false
 socials_in_search: true
 posts_in_search: true
 bib_search: true
@@ -170,10 +170,10 @@ kramdown:
 
 # Includes & excludes
 include:
-- about.md
-- friends.md
-- research.md
-- teaching.md
+- _pages/about.md
+- _pages/friends.md
+- _pages/research.md
+- _pages/teaching.md
 - "_scripts"
 exclude:
   - blog.md

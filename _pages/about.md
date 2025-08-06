@@ -1,8 +1,8 @@
 ---
 layout: about
-title: home
+title: about
 permalink: /
-nav: true
+nav: false
 nav_oder: 1
 social: false
 
