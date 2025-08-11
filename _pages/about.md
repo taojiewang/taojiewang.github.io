@@ -31,6 +31,6 @@ latest_posts:
 
 I’m a PhD candidate in [philosophy at Brown University](https://www.google.com/url?q=https%3A%2F%2Fphilosophy.brown.edu%2F&sa=D) supervised by [Nomy Arpaly](https://www.google.com/url?q=https%3A%2F%2Fphilpeople.org%2Fprofiles%2Fnomy-arpaly&sa=D), [Jamie Dreier](https://www.google.com/url?q=https%3A%2F%2Fphilosophy.brown.edu%2Fpeople%2Fjamie-dreier&sa=D), [Emily Kress](https://www.google.com/url?q=https%3A%2F%2Fphilpeople.org%2Fprofiles%2Femily-kress%3Fapp%3D678%2522%253EMyrto&sa=D), and [Bernard Reginster](https://www.google.com/url?q=https%3A%2F%2Fphilosophy.brown.edu%2Fpeople%2Fbernard-reginster&sa=D). Before coming to Brown, I received my MA from [University of Wisconsin - Milwaukee](https://www.google.com/url?q=https%3A%2F%2Fuwm.edu%2Fphilosophy%2F&sa=D), my BA in philosophy from [KU Leuven](https://www.google.com/url?q=https%3A%2F%2Fhiw.kuleuven.be%2Fen&sa=D) in Belgium, and my BA in English (Hon.) from [University of Liverpool](https://www.google.com/url?q=https%3A%2F%2Fwww.liverpool.ac.uk%2F&sa=D) in the UK. You can find my CV [here]({{ 'assets/pdf/Wang - CV.pdf' | relative_url }}). 
 
-My name is pronounced Tau-J-Won. I was born and raised in [Changsha, China](https://www.google.com/url?q=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FChangsha&sa=D).
+My name is pronounced Tau-J-Wong. I was born and raised in [Changsha, China](https://www.google.com/url?q=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FChangsha&sa=D).
 
 My partner and I have a cat, Cotton, and a bunny, Ricey. They are [great friends](/friends/)!
