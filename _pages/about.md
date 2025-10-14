@@ -11,6 +11,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p> Email: <a href="mailto:taojie_wang@brown.edu">taojie_wang@brown.edu</a></p>
     <p> Department of Philosophy, Brown University</p>
     <p>45 Prospect St</p>
     <p>Providence, RI 02912</p>
